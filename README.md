@@ -22,6 +22,7 @@
  ## 💻 Project
     Netflix homepage clone developed using ReactJS
 
+ -- Wanna see a live version ? [Click Here](https://netclone-ad1ba.web.app/)
 
  ---
 <h4 align="center">
